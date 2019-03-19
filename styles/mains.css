@@ -1,0 +1,28 @@
+div a img{
+    width: 400px;
+    height: 300px;
+}
+div img{
+    width: 500px;
+    height: 400px;
+}
+div span{
+    width: 400px;
+    height: 300px;
+}
+div p{
+    width: 286px;
+    height: 248px;
+    background-color:rgb(238, 121, 67);
+}
+.card .card-content p {
+    margin: 0;
+    color: black
+}
+nav ul a {
+   color: black
+}
+
+nav .brand-logo {
+color: black;
+}
